@@ -4,8 +4,7 @@
 - Upcomming Full Stack Developer😎                                               
 - 🌱 I’m currently learning JavaScript and frameworks like MERN, React Native, and going to build my own server😎
 
-- My LinkedIn:
-<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>(https://www.linkedin.com/in/lakshmanarunp/)
+- <img width="24" height="24" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> My LinkedIn: (https://www.linkedin.com/in/lakshmanarunp/)
 
 ### 🧑‍💻 I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
