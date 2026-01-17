@@ -10,8 +10,10 @@
 
 
 ### ⚙️ IDE and Tools I Use
-<img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/><img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="50" height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/vmware.png" alt="vmware"/><img width="50" height="50" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/><img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/vmware.png" alt="vmware"/><img width="50" height="50" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
 
+### 📝 Testing Tools I Use
+<img width="50" height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/selenium-test-automation.png" alt="selenium-test-automation"/>
 
 ### 🤖 AI Tools I Use
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="claude-ai"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/github-copilot.png" alt="github-copilot"/>
