@@ -1,22 +1,57 @@
 ## Hi there 👋 I'm Lakshman Arun P
 
-- 💼Technical Support Associate @ Tech Mahindra                                             
-- My Tech stack: MERN, Postman API, Selenium, Render/Railiway/Vercel😎
-- <img width="24" height="24" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> My LinkedIn: (https://www.linkedin.com/in/lakshmanarunp/)
+- 💼 Technical Support Associate @ Tech Mahindra
+- Building full-stack applications with modern web technologies
+- <img width="24" height="24" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> [LinkedIn](https://www.linkedin.com/in/lakshmanarunp/)
 
+---
 
-### 🧑‍💻 I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img width="50" height="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo"/><img width="50" height="50" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+## 🛠️ Tech Stack
 
+### 🎨 Frontend
+<img width="50" height="50" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/><img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react"/><img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind"/><img width="50" height="50" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/>
 
-### ⚙️ IDE and Tools I Use
-<img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/><img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/vmware.png" alt="vmware"/><img width="50" height="50" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+**Next.js • React • React Native • Tailwind CSS**
 
-### 📝 Testing Tools I Use
-<img width="50" height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/><img width="50" height="50" src="https://img.icons8.com/ios/50/selenium-test-automation.png" alt="selenium-test-automation"/>
+### ⚙️ Backend
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/><img width="50" height="50" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
 
-### 🤖 AI Tools I Use
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="claude-ai"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/github-copilot.png" alt="github-copilot"/>
+**Node.js • NestJS**
+
+### 🗄️ Data & Databases
+<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="mongodb"/><img width="50" height="50" src="https://img.icons8.com/color/48/postgres.png" alt="postgres"/>
+
+**MongoDB • Neon (Postgres) • ChromaDB (Vector Stores)**
+
+### 🔐 Authentication
+**Firebase Auth • Neon Auth**
+
+### ☁️ Cloud & Deployment
+<img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="aws"/><img width="50" height="50" src="https://img.icons8.com/color/48/vercel.png" alt="vercel"/>
+
+**AWS • Vercel • Railway • Render**
+
+---
+
+## 🛠️ Tools & IDE
+
+### Code Editors
+<img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="vscode"/><img width="50" height="50" src="https://img.icons8.com/color/48/cursor-icon.png" alt="cursor"/>
+
+**VS Code • Cursor.ai • Claude Code**
+
+### Development & API Tools
+<img width="50" height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman"/><img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+
+**Postman API • n8n • Git**
+
+### Project Management
+**Jira**
+
+### 🤖 AI Tools
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="claude-ai"/>
+
+**Claude Code • Claude API • MCPs**
 
 
 ![Lakshman Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arun28856&theme=dark&show_icons=true&&hide=issues,contribs)
