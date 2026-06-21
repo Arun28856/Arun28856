@@ -1,60 +1,67 @@
-## Hi there 👋 I'm Lakshman Arun P
+## 👋 Hey, I'm Lakshman Arun P
 
-- 💼 Technical Support Associate @ Tech Mahindra
-- Building full-stack applications with modern web technologies
-- <img width="24" height="24" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> [LinkedIn](https://www.linkedin.com/in/lakshmanarunp/)
+💼 **Technical Support Associate @ Tech Mahindra** | Full-Stack Developer | AI/ML Enthusiast  
+Building intelligent applications with modern web tech and cutting-edge AI
+
+🔗 [LinkedIn](https://www.linkedin.com/in/lakshmanarunp/) | 💻 Open to Full-Stack & AI/ML Roles
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### 🎨 Frontend
-<img width="50" height="50" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/><img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react"/><img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind"/><img width="50" height="50" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/>
+<img width="32" height="32" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/> <img width="32" height="32" src="https://img.icons8.com/color/48/react-native.png" alt="react"/> <img width="32" height="32" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind"/>
 
-**Next.js • React • React Native • Tailwind CSS**
+**Next.js** • **React** • **React Native** • **Tailwind CSS**
 
-### ⚙️ Backend
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/><img width="50" height="50" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
+### ⚙️ Backend & APIs
+<img width="32" height="32" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> <img width="32" height="32" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/> <img width="32" height="32" src="https://img.icons8.com/fluency/48/postman-api.png" alt="postman"/>
 
-**Node.js • NestJS**
+**Node.js** • **NestJS** • **Postman API**
 
-### 🗄️ Data & Databases
-<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="mongodb"/><img width="50" height="50" src="https://img.icons8.com/color/48/postgres.png" alt="postgres"/>
+### 🤖 AI/ML & RAG Pipeline
+<img width="32" height="32" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="claude"/> <img width="32" height="32" src="https://img.icons8.com/color/48/openai.png" alt="groq"/>
 
-**MongoDB • Neon (Postgres) • ChromaDB (Vector Stores)**
+**Groq API** • **Claude API** • **LangChain** • **ChromaDB** • **Vector Embeddings**
+
+### 🗄️ Databases & Storage
+<img width="32" height="32" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="mongodb"/> <img width="32" height="32" src="https://img.icons8.com/color/48/postgres.png" alt="postgres"/>
+
+**MongoDB** • **Neon (Postgres)** • **ChromaDB** (Vector Store)
 
 ### 🔐 Authentication
-**Firebase Auth • Neon Auth**
+**Firebase Auth** • **Neon Auth**
 
 ### ☁️ Cloud & Deployment
-<img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="aws"/><img width="50" height="50" src="https://img.icons8.com/color/48/vercel.png" alt="vercel"/>
+<img width="32" height="32" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="aws"/> <img width="32" height="32" src="https://img.icons8.com/color/48/vercel.png" alt="vercel"/>
 
-**AWS • Vercel • Railway • Render**
+**AWS** • **Vercel** • **Railway** • **Render**
 
 ---
 
-## 🛠️ Tools & IDE
+## 🛠️ Tools & Development Environment
 
-### Code Editors
-<img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="vscode"/><img width="50" height="50" src="https://img.icons8.com/color/48/cursor-icon.png" alt="cursor"/>
+### 💻 Code Editors & IDEs
+<img width="32" height="32" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="vscode"/> <img width="32" height="32" src="https://img.icons8.com/color/48/cursor-icon.png" alt="cursor"/> <img width="32" height="32" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="claude-code"/>
 
-**VS Code • Cursor.ai • Claude Code**
+**VS Code** • **Cursor.ai** • **Claude Code** • **IntelliJ IDEA**
 
-### Development & API Tools
-<img width="50" height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman"/><img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+### 🔧 Development & Automation
+<img width="32" height="32" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="32" height="32" src="https://img.icons8.com/color/48/000000/n8n.png" alt="n8n"/>
 
-**Postman API • n8n • Git**
+**Git** • **n8n** (Workflow Automation)
 
-### Project Management
+### 📊 Project Management
 **Jira**
 
-### 🤖 AI Tools
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="claude-ai"/>
+### 🤖 AI Assistants & APIs
+**Claude Code** • **Claude API** • **MCPs** (Model Context Protocol) • **Groq API**
 
-**Claude Code • Claude API • MCPs**
+---
 
-
-![Lakshman Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arun28856&theme=dark&show_icons=true&&hide=issues,contribs)
-
-
-[![Lakshman Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arun28856&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🎯 What I Do
+✨ Building **full-stack applications** with modern frameworks  
+🧠 Developing **RAG pipelines** for intelligent document processing  
+⚡ Integrating **LLMs** (Groq, Claude) with production systems  
+🔗 Architecting **scalable backends** with Node.js & databases  
+🎨 Creating **responsive UIs** with React & Next.js
