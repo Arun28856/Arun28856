@@ -3,7 +3,7 @@
 💼 **Technical Support Associate @ Tech Mahindra** | Full-Stack Developer | AI/ML Enthusiast  
 Building intelligent applications with modern web tech and cutting-edge AI
 
-🔗 [LinkedIn](https://www.linkedin.com/in/lakshmanarunp/) | 💻 Open to Full-Stack & AI/ML Roles
+🔗 [LinkedIn](https://www.linkedin.com/in/lakshmanarunp/) | [Portfolio](https://lakshmanarundev.vercel.app/) | 💻 Open to Full-Stack & AI/ML Roles
 
 ---
 
