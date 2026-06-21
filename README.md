@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Lakshman Arun P
 
-💼 **Technical Support Associate @ Tech Mahindra** | Full-Stack Developer | AI/ML Enthusiast  
+💼 **Technical Support Associate @ Tech Mahindra** | Full-Stack Developer |
 Building intelligent applications with modern web tech and cutting-edge AI
 
 🔗 [LinkedIn](https://www.linkedin.com/in/lakshmanarunp/) | 💻 Open to Full-Stack & AI/ML Roles
